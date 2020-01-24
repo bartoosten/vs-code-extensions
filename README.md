@@ -40,7 +40,7 @@ Visual Studio Code - Extensions
 
 - Docker https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
 - Docker Explorer https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer
-- ES7 React/Redux/React-Native/Graph-QL snippets https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+- JavaScript snippets https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
 - GraphQL for vscode https://marketplace.visualstudio.com/items?itemName=kumar-harsh.graphql-for-vscode
 - Prisma https://marketplace.visualstudio.com/items?itemName=Prisma.prisma
 - Styled Components https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components
