@@ -35,6 +35,7 @@ Visual Studio Code - Extensions
 - Import Costs https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
 - CSS Peek https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek
 - Debugger for Chrome https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
+- Turbo Console Log https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log
 
 ## Frameworks
 
