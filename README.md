@@ -36,6 +36,7 @@ Visual Studio Code - Extensions
 - CSS Peek https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek
 - Debugger for Chrome https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
 - Turbo Console Log https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log
+- Gutter Preview https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview
 
 ## Frameworks
 
