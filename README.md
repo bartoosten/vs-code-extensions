@@ -16,6 +16,7 @@ Visual Studio Code - Extensions
 - Beautify https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify
 - Pretier https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 - Bracket Pair Colorizer https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
+- Indent Rainbow https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
 
 ## Style
 
