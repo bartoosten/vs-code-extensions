@@ -52,3 +52,5 @@ Visual Studio Code - Extensions
 
 - npm Intellisense https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense
 - Path Intellisense https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
+- Markdown Preview Enhanced https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced
+
