@@ -47,6 +47,7 @@ Visual Studio Code - Extensions
 - Prisma https://marketplace.visualstudio.com/items?itemName=Prisma.prisma
 - Styled Components https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components
 
-## Moree
+## More
 
 - npm Intellisense https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense
+- Path Intellisense https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
