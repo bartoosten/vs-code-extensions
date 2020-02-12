@@ -46,3 +46,7 @@ Visual Studio Code - Extensions
 - GraphQL for vscode https://marketplace.visualstudio.com/items?itemName=kumar-harsh.graphql-for-vscode
 - Prisma https://marketplace.visualstudio.com/items?itemName=Prisma.prisma
 - Styled Components https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components
+
+## Moree
+
+- npm Intellisense https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense
